@@ -1,1 +1,2 @@
-A functional newspaper database implemented in python with MySQL
+A functional newspaper database implemented in python with pyMySQL plugin
+
